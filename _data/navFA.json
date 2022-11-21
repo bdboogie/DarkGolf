@@ -3,5 +3,10 @@
     "About" : "fa-user",
     "Photos" : "fa-eye",
     "Contact" : "fa-envelope",
-    "Archive" : "fa-archive"
+    "Archive" : "fa-archive",
+    "Resources" :  "fa-folder-open",
+    "Club Events" : "fa-calendar",
+    "Consultancy" : "fa-user-circle-o",
+    "Union" : "fa-bullhorn",
+    "Finance" : "fa-chart-area"
 }

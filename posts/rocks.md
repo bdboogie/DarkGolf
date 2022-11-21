@@ -11,6 +11,9 @@ image: /img/w3images/rocks.jpg
 1. Added images to img> W3images
 2. Replaced index.njk
 3. Added Avatar thumbnail to Navigation div on base.njk
+4. Updated metadata.json with personal and site details.
+5. Added Font Awesome Favicons to navFav.json
+6.
 
 ![alt text]({{ image | url }} "Chef")
 
