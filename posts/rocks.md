@@ -13,7 +13,11 @@ image: /img/w3images/rocks.jpg
 3. Added Avatar thumbnail to Navigation div on base.njk
 4. Updated metadata.json with personal and site details.
 5. Added Font Awesome Favicons to navFav.json
-6.
+6. Created navigation items by folder and index.md file
+Navigation
+1. to create an entry in the nav bar to an anchor create a njk like resources.njk 
+2. to create a nav link to a folder with an index.md , its worth trying to see if you can create an md in the main directory with a different name to index.md, that said the way the About item has been created woudl suggest otherwise.
+
 
 ![alt text]({{ image | url }} "Chef")
 
