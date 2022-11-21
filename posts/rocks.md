@@ -1,7 +1,7 @@
 ---
 title: Rocks
 description: This is a photo called rocks
-date: 2018-05-02
+date: 2022-11-21
 tags:
   - photo
 layout: layouts/post.njk
@@ -12,7 +12,7 @@ image: /img/w3images/rocks.jpg
 2. Replaced index.njk
 3. Added Avatar thumbnail to Navigation div on base.njk
 4. Updated metadata.json with personal and site details.
-5. Added Font Awesome Favicons to navFav.json
+5. Added Font Awesome Favicons to navFav.json (but it didnt like fa-chart-area, too new, use this list https://www.fontawesomecheatsheet.com/font-awesome-cheatsheet-4x/)
 6. Created navigation items by folder and index.md file
 Navigation
 1. to create an entry in the nav bar to an anchor create a njk like resources.njk 
