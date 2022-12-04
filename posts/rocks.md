@@ -13,7 +13,7 @@ image: /img/w3images/rocks.jpg
 3. Added Avatar thumbnail to Navigation div on base.njk
 4. Updated metadata.json with personal and site details.
 5. Added Font Awesome Favicons to navFav.json (but it didnt like fa-chart-area, too new, use this list https://www.fontawesomecheatsheet.com/font-awesome-cheatsheet-4x/)
-6. Created navigation items by folder and index.md file
+6. Created navigation items by folder and index.md file - didnt actually dpo this yet as want to sort responsive image out first.  Thoughts on this are upload latest w3.css and chekc that posts not knocked out as these are the things that seem skewy.  Also have a nother look at index.css, you messed about with tmpl-post in the original file, (think you copied the li item)
 Navigation
 1. to create an entry in the nav bar to an anchor create a njk like resources.njk 
 2. to create a nav link to a folder with an index.md , its worth trying to see if you can create an md in the main directory with a different name to index.md, that said the way the About item has been created woudl suggest otherwise.
