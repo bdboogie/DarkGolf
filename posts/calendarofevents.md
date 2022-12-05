@@ -1,7 +1,7 @@
 ---
 title: Annual Events Planner
 description: This section provides advice on the annual events held at the golf club
-date: 2021-11-05
+date: 2022-12-05
 tags:
   - photo
 layout: layouts/post.njk
@@ -9,7 +9,7 @@ image: /img/w3images/events.jpg
 ---
 Intro about the annual calendar.
 
-![alt text]({{ image | url }} "3rd Hole")
+![alt text]({{ image | url }} "Club Dinner 2019")
 
 <h2>Pre Year</h2>
 
