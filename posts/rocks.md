@@ -23,6 +23,9 @@ Navigation
 1. to create an entry in the nav bar to an anchor create a njk like resources.njk 
 2. to create a nav link to a folder with an index.md , its worth trying to see if you can create an md in the main directory with a different name to index.md, that said the way the About item has been created woudl suggest otherwise.
 
+05/12/2022
+1. Update CSS to December 2020 version and created copy of previous css
+
 
 ![alt text]({{ image | url }} "Chef")
 
