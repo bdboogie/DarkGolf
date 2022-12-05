@@ -27,10 +27,11 @@ Attend club dinner
 <h2>Year in Office</h2>
 
 <h3>December</h3>
+
 Happening:
-+ Kids Christmas Party / Car Park Draw
+* Kids Christmas Party / Car Park Draw
 - AGM
-* First Booking on <br>
+* First Booking on
 Initiate: <br>
 Deadline: confirm arrangements for Captain's Drive in
 
