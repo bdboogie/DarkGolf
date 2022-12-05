@@ -27,7 +27,8 @@ Navigation
 1. Update CSS to December 2020 version and created copy of previous css
 2. Above didnt resolve the issue directly but left file as current version as it didnt destroy site. 
 3. Using w3-image as the class against one image (finance.njk) and the responsive kicked in showing that w3.css is controling this.
-4. Next up was controlling an image in a post.  tryiomng div around content
+4. Next up was controlling an image in a post.  Tried adding a div around content ![alt text]({{ image | url }} "Club Dinner 2019") but that just displayed the code
+5. Resorted to an HTML img tag in the post.md file
 
 
 

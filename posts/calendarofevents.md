@@ -8,9 +8,8 @@ layout: layouts/post.njk
 image: /img/w3images/events.jpg
 ---
 Intro about the annual calendar.
-<div class="w3-image">
-![alt text]({{ image | url }} "Club Dinner 2019")
-</div>
+<img src="../img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
+
 <h2>Pre Year</h2>
 
 <h3>October</h3>
