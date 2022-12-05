@@ -18,10 +18,10 @@ Initiate: Car Park Draw <br>
 Deadline: Prepare your calendar for the following year
 
 <h3>November</h3>
-Happening: BDUGC Alliance
+Happening: BDUGC Alliance <br>
 Initiate: <br>
 Deadline: <br>
-Deadline to prepare speech for AGM
+Prepare introduction speech for AGM,
 Attend club dinner
 
 <h2>Year in Office</h2>
@@ -30,29 +30,33 @@ Attend club dinner
 
 Happening:
 * Kids Christmas Party / Car Park Draw
-- AGM
+* AGM
 * First Booking on
-Initiate: <br>
-Deadline: confirm arrangements for Captain's Drive in
+Initiate: 
+* Draw up list of attendees for Union Dinner
+Deadline: Confirm arrangements for Captain's Drive in
 
 <h3>January</h3>
+
 Happening: 
 * Captain's Drive in
 * BDUGC Annual Dinner <br>
 Initiate: <br>
 Deadline: 
-* Mid Jan Book table for BDUGC Annual Dinner 
+* Mid January book table for BDUGC Annual Dinner 
 * Signing up to Daily Mail Foursomes
 
 <h3>February</h3>
+
 Happening: 
-* Past Captains' Dinner
-* BDUGC Alliance  <br>
+* Attend Past Captains' Dinner as guest
+* BDUGC Alliance
 Initiate: Advertise Enrolment Night  <br>
 Deadline:
 
 
 <h3>March</h3>
+
 Happening: 
 * Section Enrolment Night
 * Cheltenham Open Day
@@ -62,18 +66,23 @@ Deadline:
 Section Sign up
 
 <h3>April</h3>
+
 Happening:
 * Masters Team Club
 * Start of Qualifying Season  <br>
-Initiate:  <br>
+Initiate: 
+* Eclectic Competition <br>
+* Masters Comp
 Deadline: <br>
-Qualifying Season
+Qualifying Season starts
 
 <h3>May</h3>
+
 Happening: <br>
 Initiate: <br>
 Deadline:
-Club Cup Qualifier
+* Club Cup Qualifier
+* Eclectic entry cut off 
 
 <h3>June</h3>
 Happening:  <br>
@@ -97,37 +106,37 @@ Deadline:
 Finals Day
 
 <h3>October</h3>
+
 Happening:  <br>
-Initiate:  <br>
+Initiate:  Past Captains' Dinner (see next February)<br>
 Deadline: 
-* Annual Finals
 * Whisky Trot
-*Turkey Trot
+* Turkey Trot
 
 <h3>November</h3>
-Happening:
+
+Happening: Annual Club Dinner <br>
 Initiate:
-Deadline:
-Club Dinner
+Deadline: Submit annual report for AGM
 
 <h3>December</h3>
-Happening: AGM
-Initiate:
+Happening: AGM  <br>
+Initiate:  <br>
 Deadline:
 AGM
 
 <h2>Post Year</h2>
 <h3>January</h3>
-Happening:
-Initiate:
-Deadline:
+Happening:  <br>
+Initiate: Organise Past Captains' Trip<br>
+Deadline: Finalise Past Captains' Dinner
 
 <h3>Febraury</h3>
-Happening:
-Initiate:
+Happening: Host Past Captains' Dinner <br>
+Initiate: <br>
 Deadline:
 
 <h3>September</h3>
-Happening:
-Initiate:
+Happening: Host Past Captains' Trip <br>
+Initiate: <br>
 Deadline:
