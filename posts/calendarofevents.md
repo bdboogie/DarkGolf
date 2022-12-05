@@ -8,7 +8,7 @@ layout: layouts/post.njk
 image: /img/w3images/events.jpg
 ---
 Intro about the annual calendar.
-<img src="../img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
+<img src="/img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
 
 <h2>Pre Year</h2>
 
