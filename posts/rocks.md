@@ -25,6 +25,10 @@ Navigation
 
 05/12/2022
 1. Update CSS to December 2020 version and created copy of previous css
+2. Above didnt resolve the issue directly but left file as current version as it didnt destroy site.
+User w3-image as the class against one image and the responsive kicked in showing that w3.css is controling this.
+
+
 
 
 ![alt text]({{ image | url }} "Chef")
