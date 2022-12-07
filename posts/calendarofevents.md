@@ -13,7 +13,9 @@ Intro about the annual calendar.
 <h2>Pre Year</h2>
 
 <h3>October</h3>
-Happening: Annual Medal & Stableford <br>
+
+Happening: 
+* Annual Medal & Stableford <br>
 Initiate: Car Park Draw <br>
 Deadline: Prepare your calendar for the following year
 
@@ -34,7 +36,8 @@ Happening:
 * First Booking on
 Initiate: 
 * Draw up list of attendees for Union Dinner
-Deadline: Confirm arrangements for Captain's Drive in
+Deadline: 
+* Confirm arrangements for Captain's Drive in
 
 <h3>January</h3>
 
