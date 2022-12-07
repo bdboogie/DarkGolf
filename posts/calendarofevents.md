@@ -15,14 +15,21 @@ Intro about the annual calendar.
 <h3>October</h3>
 
 Happening: 
-* Annual Medal & Stableford <br>
-Initiate: Car Park Draw <br>
-Deadline: Prepare your calendar for the following year
+* Annual Medal & Stableford
+
+Initiate: 
+* Car Park Draw
+
+Deadline: 
+* Prepare your calendar for the following year
 
 <h3>November</h3>
-Happening: BDUGC Alliance <br>
-Initiate: <br>
-Deadline: <br>
+
+Happening: 
+* BDUGC Alliance
+* Annual Club Dinner
+Initiate: 
+Deadline: 
 Prepare introduction speech for AGM,
 Attend club dinner
 
@@ -34,6 +41,7 @@ Happening:
 * Kids Christmas Party / Car Park Draw
 * AGM
 * First Booking on
+
 Initiate: 
 * Draw up list of attendees for Union Dinner
 Deadline: 
@@ -54,7 +62,8 @@ Deadline:
 Happening: 
 * Attend Past Captains' Dinner as guest
 * BDUGC Alliance
-Initiate: Advertise Enrolment Night  <br>
+Initiate: 
+* Advertise Enrolment Night
 Deadline:
 
 
@@ -64,28 +73,31 @@ Happening:
 * Section Enrolment Night
 * Cheltenham Open Day
 * End of Winter League
-Initiate: Masters Team Comp Sign up sheet <br>
+Initiate: 
+* Masters Team Comp Sign up
+* Eclectic sign up
 Deadline:
-Section Sign up
+* Section Sign up
 
 <h3>April</h3>
 
 Happening:
-* Masters Team Club
+* Masters Team Competition
 * Start of Qualifying Season  <br>
 Initiate: 
-* Eclectic Competition <br>
-* Masters Comp
+* Ernest Gray Scrtatch Knockout sign up
 Deadline: <br>
 Qualifying Season starts
 
 <h3>May</h3>
 
-Happening: <br>
-Initiate: <br>
+Happening: Club Cup Qualifier<br>
+Initiate: 
+* Enquiry about entertainment for Club Dinner
 Deadline:
-* Club Cup Qualifier
-* Eclectic entry cut off 
+* Section knockout competition entry cut off
+* Eclectic entry cut off
+* Ernest Gray Scratch Trophy cut off
 
 <h3>June</h3>
 Happening:  <br>
@@ -104,7 +116,7 @@ Deadline:
 
 <h3>September</h3>
 Happening:  <br>
-Initiate:  <br>
+Initiate:  List for Club Dinner<br>
 Deadline: 
 Finals Day
 
