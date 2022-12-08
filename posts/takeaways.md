@@ -15,8 +15,8 @@ A word of advice...
 
 ## Useful sections
 
-<a href="{{ '/posts/comps/' | url }}">Competitions</a>
-<a href="{{ '/posts/calendarofevents/' | url }}">Calendar</a>
+<a href="{{ '/posts/comps/' | url }}">Club Competitions</a>
+<a href="{{ '/posts/calendarofevents/' | url }}">Calendar of Club Events to be aware of</a>
 <a href="{{ '/posts/bdugc/' | url }}">BDUGC Events</a>
 <a href="{{ '/posts/captday/' | url }}">Captain's Day Planner</a>
 

@@ -1,7 +1,7 @@
 ---
-title: Rocks
-description: This is a photo called rocks
-date: 2022-01-21
+title: Dev Notes
+description: A collection of development notes for future builds
+date: 2021-01-21
 tags:
   - photo
 layout: layouts/post.njk
@@ -31,7 +31,8 @@ Navigation
 5. Resorted to an HTML img tag in the post.md file
 
 08/12/2022
-1.Added previously created posts from the DarkCourse
+1. Added previously created posts from the DarkCourse
+2. Added son breaks to push title dowenm on post pages to allow nav bar space on mobile devices
 
 
 ![alt text]({{ image | url }} "Chef")
