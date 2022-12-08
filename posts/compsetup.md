@@ -1,7 +1,7 @@
 ---
 title: Setting up Club Competitions and Open Days
 description: This section provides advice on how to set up competitions using current systems
-date: 2022-01-24
+date: 2022-12-07
 tags:
   - no photo
 layout: layouts/post.njk
