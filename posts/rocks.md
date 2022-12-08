@@ -5,7 +5,7 @@ date: 2022-11-21
 tags:
   - photo
 layout: layouts/post.njk
-image: /img/w3images/rocks.jpg
+image: /img/w3images/oldcpourse.JPG
 ---
 21/11/2022
 1. Added images to img> W3images
