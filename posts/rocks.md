@@ -30,7 +30,8 @@ Navigation
 4. Next up was controlling an image in a post.  Tried adding a div around content ![alt text]({{ image | url }} "Club Dinner 2019") but that just displayed the code
 5. Resorted to an HTML img tag in the post.md file
 
-
+08/12/2022
+1.Added previously created posts from the DarkCourse
 
 
 ![alt text]({{ image | url }} "Chef")

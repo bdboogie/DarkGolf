@@ -19,6 +19,7 @@ Happening:
 
 Initiate: 
 * Car Park Draw
+* Launch Open Days
 
 Deadline: 
 * Prepare your calendar for the following year
@@ -28,10 +29,12 @@ Deadline:
 Happening: 
 * BDUGC Alliance
 * Annual Club Dinner
+
 Initiate: 
+
 Deadline: 
-Prepare introduction speech for AGM,
-Attend club dinner
+* Prepare introduction speech for AGM,
+* Attend club dinner
 
 <h2>Year in Office</h2>
 
@@ -44,6 +47,7 @@ Happening:
 
 Initiate: 
 * Draw up list of attendees for Union Dinner
+
 Deadline: 
 * Confirm arrangements for Captain's Drive in
 
@@ -51,8 +55,10 @@ Deadline:
 
 Happening: 
 * Captain's Drive in
-* BDUGC Annual Dinner <br>
-Initiate: <br>
+* BDUGC Annual Dinner
+
+Initiate:
+
 Deadline: 
 * Mid January book table for BDUGC Annual Dinner 
 * Signing up to Daily Mail Foursomes
@@ -62,6 +68,7 @@ Deadline:
 Happening: 
 * Attend Past Captains' Dinner as guest
 * BDUGC Alliance
+
 Initiate: 
 * Advertise Enrolment Night
 Deadline:
@@ -73,9 +80,11 @@ Happening:
 * Section Enrolment Night
 * Cheltenham Open Day
 * End of Winter League
+
 Initiate: 
 * Masters Team Comp Sign up
 * Eclectic sign up
+
 Deadline:
 * Section Sign up
 
@@ -83,75 +92,116 @@ Deadline:
 
 Happening:
 * Masters Team Competition
-* Start of Qualifying Season  <br>
+* Start of Qualifying Season
+
 Initiate: 
 * Ernest Gray Scrtatch Knockout sign up
-Deadline: <br>
-Qualifying Season starts
+
+Deadline: 
+*Qualifying Season starts
 
 <h3>May</h3>
 
-Happening: Club Cup Qualifier<br>
+Happening: 
+*Club Cup Qualifier
+
 Initiate: 
 * Enquiry about entertainment for Club Dinner
+
 Deadline:
 * Section knockout competition entry cut off
 * Eclectic entry cut off
 * Ernest Gray Scratch Trophy cut off
 
 <h3>June</h3>
-Happening:  <br>
-Initiate:  <br>
+
+Happening: 
+
+Initiate:  
+
 Deadline: 
 
 <h3>July</h3>
-Happening:  <br>
-Initiate:  <br>
+
+Happening:  
+
+Initiate:  
+
 Deadline: 
 
 <h3>August</h3>
-Happening:  <br>
-Initiate:  <br>
+
+Happening:
+
+Initiate: 
+
 Deadline: 
 
 <h3>September</h3>
-Happening:  <br>
-Initiate:  List for Club Dinner<br>
+
+Happening: 
+* Finals Day
+
+Initiate:  
+* List for Club Dinner
+
 Deadline: 
-Finals Day
+
 
 <h3>October</h3>
 
-Happening:  <br>
-Initiate:  Past Captains' Dinner (see next February)<br>
+Happening: 
+
+Initiate:
+* Past Captains' Dinner (see next February)<br>
+
 Deadline: 
 * Whisky Trot
 * Turkey Trot
 
 <h3>November</h3>
 
-Happening: Annual Club Dinner <br>
+Happening: 
+* Annual Club Dinner
+
 Initiate:
-Deadline: Submit annual report for AGM
+
+Deadline: 
+* Submit annual report for AGM
 
 <h3>December</h3>
-Happening: AGM  <br>
-Initiate:  <br>
+
+Happening: 
+* AGM 
+
+Initiate:
+
 Deadline:
-AGM
+
 
 <h2>Post Year</h2>
 <h3>January</h3>
-Happening:  <br>
-Initiate: Organise Past Captains' Trip<br>
+
+Happening:  
+
+Initiate: Organise Past Captains' Trip
+
 Deadline: Finalise Past Captains' Dinner
 
 <h3>Febraury</h3>
-Happening: Host Past Captains' Dinner <br>
-Initiate: <br>
+
+Happening: 
+* Host Past Captains' Dinner 
+
+Initiate: 
+
 Deadline:
 
 <h3>September</h3>
-Happening: Host Past Captains' Trip <br>
-Initiate: <br>
+
+Happening: 
+* Host Past Captains' Trip 
+
+Initiate: 
+
 Deadline:
