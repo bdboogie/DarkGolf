@@ -5,7 +5,7 @@ date: 2022-12-08
 tags:
   - photo
 layout: layouts/post.njk
-image: /img/w3images/pcd001.jpg
+image: /img/w3images/pcd001_pano.jpg
 ---
 
 Black tie, port and debate

@@ -7,11 +7,12 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/ateam.jpg
 ---
+The playbook for the MC
 
 * Call to order and 5 minute warning
   Warn attendees that proceeding will conmence shortly and to take opportunity to refill drinks and take a comfort break.
 * Welcome address for host(s) and guest(s)
-   Introduce the guests for the evening to a slow hand clap
+  Introduce the guests for the evening to a slow hand clap
 * Announce Grace
 * Toast to Baildon Golf Club - Guest 1
 * Response to toast - President BGC
