@@ -25,7 +25,7 @@ Time booked out for the comp can be released for visitor books depending on need
 
 
 
-notes on Mixed , typically number of people that take part and the time to allocate to avoid saturating tee sheet but also getting peopel back in on time.  Mention can extend either side and how far in advance to make availabel , that ges for some saturday comps too again i.e. the Rosebowl
+notes on Mixed , typically number of people that take part and the time to allocate to avoid saturating tee sheet but also getting people back in on time.  Mention can extend either side and how far in advance to make available , that goes for some saturday comps too again i.e. the Rosebowl
 
 Not really for this page so put another one together but need to highlight the step for societies , e.g. ladies exchange day, 
 Preparation time December - December takes approx 7 hours
