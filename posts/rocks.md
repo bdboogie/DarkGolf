@@ -34,6 +34,8 @@ Navigation
 1. Added previously created posts from the DarkCourse
 2. Added son breaks to push title dowenm on post pages to allow nav bar space on mobile devices
 
+06/02/2023
+1. Updated compsetup.md
 
 ![alt text]({{ image | url }} "Chef")
 

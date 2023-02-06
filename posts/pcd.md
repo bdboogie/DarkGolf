@@ -12,7 +12,7 @@ Black tie, port and debate
 
 <img src="/img/w3images/pcd001_pano.jpg" class="w3-image" alt="Past Captains' Dinner 2020">
 
-The meal is traditionally held in early February, organised by the immediate past captain on behlaf of all past captains and an invite extended to the current captain as the guest of honour.
+The meal is traditionally held in early February, organised by the immediate past captain on behalf of all past captains and an invite extended to the current captain as the guest of honour.
 
 Hosts responsibility (Immediate Past Captain)
 * Organise evening
