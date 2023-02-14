@@ -17,10 +17,10 @@ Even tried and tested formulas get tired, after each event it is useful to hold 
 * Website Diary
 * BRS comp set up
 * Check set up
-* Promotion
+* Promotion - posters , social media, mailshot , Golf Empire
 * Additional options e.g. chaper member entry fees
 * Prizes
-* INcome generation
+* Income generation
 * Organisaton on the day
 
-<h2>Weekend comps - 3 ball and four ball</h2>
+<h2>Open Format</h2>
