@@ -51,3 +51,23 @@ Develop and implement a robust risk management strategy to anticipate and mitiga
 Foster open communication with members, stakeholders, and the community to gather valuable insights. Collaborate with other committee members to align financial strategies with the broader organizational vision.
 
 5th Dec 2023
+
+
+<!-- Portfolio Section -->
+  <div class="w3-padding-64 w3-content" id="resources">
+    <h2 class="w3-text-light-grey">Resources</h2>
+    <hr style="width:200px" class="w3-opacity">
+
+    <!-- Grid for Resources -->
+    <div class="w3-row-padding" style="margin:0 -16px">
+
+  {#  <div class="w3-half">
+    {% for post in collections.photo | head(-10) %}
+      {% if loop.index==4 %}
+      </div><div class="w3-half">
+      {% endif %}
+        <a href="{{ post.url | url}}"><img src = "{{ post.data.image | url }}" style="width:100%" > </a>
+        
+    {% endfor %}
+    
+    </div>
