@@ -52,8 +52,9 @@ Foster open communication with members, stakeholders, and the community to gathe
 
 5th Dec 2023
 
+<a href="../img/w3images/Slide.JPG">Finances</a>
 
-<h2>Headlines from the current administration for 2022<h2>
+<h2>Headlines from the current administration for 2022</h2>
     <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
     <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
     <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
