@@ -11,7 +11,7 @@ image: /img/w3images/Slide2.jpg
 <h3>Dear Baildon Golf Club Members,</h3>
 
 
-I am honored to announce my candidacy for the position of Treasurer at the upcoming Annual General Meeting. Our Club faced unprecedented financial challenges in 2022, generating a eyewatering full year £43k loss and the unexplained negative discrepancy in the 2021 audited accounts seeing £30K of profit, and a number of officials, disappear without explanation. As your Treasurer, I will act on behalf of the membership and commit to implementing strategic financial measures to address and rectify this situation, ensuring the long-term financial health of our club.
+I am honoured to announce my candidacy for the position of Treasurer at the upcoming Annual General Meeting. Our Club faced unprecedented financial challenges in 2022, generating an eyewatering full year £43k loss and the unexplained negative discrepancy in the 2021 audited accounts seeing £30K of profit, and a number of officials, disappear without explanation. As your Treasurer, I will act on behalf of the membership and commit to implementing strategic financial measures to address and rectify this situation, ensuring the long-term financial health of our club.
 
 Key Points of my Manifesto:
 * Comprehensive Financial Audit:
@@ -25,7 +25,7 @@ Key Points of my Manifesto:
 
 Together, we can overcome the current financial challenges and pave the way for a prosperous future for Baildon Golf Club. I am dedicated to ensuring the responsible and effective management of our finances, working diligently to restore financial stability and drive sustainable growth.
 
-Your support will enable us to build a resilient financial foundation for Baildpon Golf Club. I am eager to contribute my skills and commitment to this crucial role as Treasurer.
+Your support will enable us to build a resilient financial foundation for Baildon Golf Club. I am eager to contribute my skills and commitment to this crucial role as Treasurer.
 
 Thank you for considering my candidacy as your Treasurer at this years AGM on Thursday 14th December at 8PM.
 
