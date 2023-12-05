@@ -53,21 +53,8 @@ Foster open communication with members, stakeholders, and the community to gathe
 5th Dec 2023
 
 
-<!-- Portfolio Section -->
-  <div class="w3-padding-64 w3-content" id="resources">
-    <h2 class="w3-text-light-grey">Resources</h2>
-    <hr style="width:200px" class="w3-opacity">
-
-    <!-- Grid for Resources -->
-    <div class="w3-row-padding" style="margin:0 -16px">
-
-  {#  <div class="w3-half">
-    {% for post in collections.photo | head(-10) %}
-      {% if loop.index==4 %}
-      </div><div class="w3-half">
-      {% endif %}
-        <a href="{{ post.url | url}}"><img src = "{{ post.data.image | url }}" style="width:100%" > </a>
-        
-    {% endfor %}
-    
-    </div>
+<h2>Headlines from the current administration for 2022<h2>
+    <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
+    <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
+    <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
+    <img src="../img/w3images/Slide.JPG" class="w3-image" alt="Responsive image">
