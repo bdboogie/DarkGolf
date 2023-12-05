@@ -56,4 +56,6 @@ Foster open communication with members, stakeholders, and the community to gathe
     <img src="/img/w3images/Slide3.JPG" class="w3-image" alt="Financial; Statement 2021 - Revised">
     <img src="/img/w3images/Slide4.JPG" class="w3-image" alt="Financial; Statement 2022">
     <img src="/img/w3images/Slide5.JPG" class="w3-image" alt="Three Year Forecast">
+
+   JB Putting the FUN, in to FUNDS
     <img src="/img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
