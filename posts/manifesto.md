@@ -49,11 +49,11 @@ Foster open communication with members, stakeholders, and the community to gathe
 
 5th Dec 2023
 
-<a href="https://brilliant-torte-5d2f1c.netlify.app/finance/">Finances</a>
+<a href="https://brilliant-torte-5d2f1c.netlify.app/finance/">Distribution of Finances Past Three Years</a>
 
 <h2>Headlines from the current administration for 2022</h2>
-    <img src="../img/w3images/Slide2.JPG" class="w3-image" alt="Responsive image">
-    <img src="../img/w3images/Slide3.JPG" class="w3-image" alt="Responsive image">
-    <img src="../img/w3images/Slide4.JPG" class="w3-image" alt="Responsive image">
-    <img src="../img/w3images/Slide5.JPG" class="w3-image" alt="Responsive image">
+    <img src="/img/w3images/Slide2.JPG" class="w3-image" alt="Financial; Statement 2021 - Original">
+    <img src="/img/w3images/Slide3.JPG" class="w3-image" alt="Financial; Statement 2021 - Revised">
+    <img src="/img/w3images/Slide4.JPG" class="w3-image" alt="Financial; Statement 2022">
+    <img src="/img/w3images/Slide5.JPG" class="w3-image" alt="Three Year Forecast">
     <img src="/img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
