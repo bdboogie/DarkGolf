@@ -13,17 +13,26 @@ Proven track record to deliver
 
 <h3>Dear Baildon Golf Club Members,</h3.>
 
-I am honored to announce my candidacy for the position of Treasurer at the upcoming Annual General Meeting. Our organization faced unprecedented financial challenges in 2022, with a £43k loss and the cover up of a negative discrepancy in the previous 2021 audited accounts seeing £30K of profit and a number of officials disappear without explanation. As your Treasurer, I will act on behal;f of the membership and commit to implementing strategic financial measures to address and rectify this situation, ensuring the long-term financial health of our club.
+I am honored to announce my candidacy for the position of Treasurer at the upcoming Annual General Meeting. Our organization faced unprecedented financial challenges in 2022, generating a eyewatering full year £43k loss and the unexplained negative discrepancy in audited accounts of 2021 seeing £30K of profit and a number of officials disappear without explanation. As your Treasurer, I will act on behalf of the membership and commit to implementing strategic financial measures to address and rectify this situation, ensuring the long-term financial health of our club.
 
 Key Points of my Manifesto:
-1.      Comprehensive Financial Audit:
-2.      Strategic Budget Management
-3.      Diversification of Revenue Streams
-4.      Financial Training and Awareness
-5.      Regular Financial Reporting
-6.      Risk Management
-7.      Collaboration with Stakeholders
+* 1.      Comprehensive Financial Audit:
+* 2.      Strategic Budget Management
+* 3.      Diversification of Revenue Streams
+* 4.      Financial Training and Awareness
+* 5.      Regular Financial Reporting
+* 6.      Risk Management
+* 7.      Collaboration with Stakeholders
+(see below for further detail on the seven key points)
 
+Together, we can overcome the current financial challenges and pave the way for a prosperous future for Baildon Golf Club. I am dedicated to ensuring the responsible and effective management of our finances, working diligently to restore financial stability and drive sustainable growth.
+
+Your support will enable us to build a resilient financial foundation for our organization. I am eager to contribute my skills and commitment to this crucial role as Treasurer.
+
+Thank you for considering my candidacy as your Treasurer at this years AGM on Thursday 14th December at 8PM.
+
+Sincerely,
+John Megson
 
 <h3> 1.      Comprehensive Financial Audit: </h3>
 Conduct a thorough audit to identify the root causes of the financial loss, ensuring transparency and accountability. This will serve as the foundation for targeted corrective actions.
@@ -40,11 +49,4 @@ Develop and implement a robust risk management strategy to anticipate and mitiga
 <h3> 7.      Collaboration with Stakeholders:</h3>
 Foster open communication with members, stakeholders, and the community to gather valuable insights. Collaborate with other committee members to align financial strategies with the broader organizational vision.
 
-Together, we can overcome the current financial challenges and pave the way for a prosperous future for Baildon Golf Club. I am dedicated to ensuring the responsible and effective management of our finances, working diligently to restore financial stability and drive sustainable growth.
-
-Your support will enable us to build a resilient financial foundation for our organization. I am eager to contribute my skills and commitment to this crucial role as Treasurer.
-
-Thank you for considering my candidacy as your Treasurer at this years AGM on Thursday 14th December at 8PM.
-
-Sincerely,
-John Megson
+5th Dec 2023
