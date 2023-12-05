@@ -11,18 +11,19 @@ Proven track record to deliver
 <img src="/img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
 
 
-<h3>Dear Baildon Golf Club Members,</h3.>
+<h3>Dear Baildon Golf Club Members,</h3>
+
 
 I am honored to announce my candidacy for the position of Treasurer at the upcoming Annual General Meeting. Our organization faced unprecedented financial challenges in 2022, generating a eyewatering full year £43k loss and the unexplained negative discrepancy in audited accounts of 2021 seeing £30K of profit and a number of officials disappear without explanation. As your Treasurer, I will act on behalf of the membership and commit to implementing strategic financial measures to address and rectify this situation, ensuring the long-term financial health of our club.
 
 Key Points of my Manifesto:
-* 1.      Comprehensive Financial Audit:
-* 2.      Strategic Budget Management
-* 3.      Diversification of Revenue Streams
-* 4.      Financial Training and Awareness
-* 5.      Regular Financial Reporting
-* 6.      Risk Management
-* 7.      Collaboration with Stakeholders
+* Comprehensive Financial Audit:
+* Strategic Budget Management
+* Diversification of Revenue Streams
+* Financial Training and Awareness
+* Regular Financial Reporting
+* Risk Management
+* Collaboration with Stakeholders
 (see below for further detail on the seven key points)
 
 Together, we can overcome the current financial challenges and pave the way for a prosperous future for Baildon Golf Club. I am dedicated to ensuring the responsible and effective management of our finances, working diligently to restore financial stability and drive sustainable growth.
