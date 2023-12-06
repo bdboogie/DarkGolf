@@ -57,5 +57,5 @@ Foster open communication with members, stakeholders, and the community to gathe
     <img src="/img/w3images/Slide4.JPG" class="w3-image" alt="Financial; Statement 2022">
     <img src="/img/w3images/Slide5.JPG" class="w3-image" alt="Three Year Forecast">
 
-   JB Putting the FUN, in to FUNDS
+   JB Putting the FUN back into FUNDS, and the ABILITY into FINANCIAL STABILITY
     <img src="/img/w3images/events.jpg" class="w3-image" alt="Club Dinner 2019">
