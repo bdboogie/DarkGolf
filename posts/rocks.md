@@ -7,6 +7,9 @@ tags:
 layout: layouts/post.njk
 image: /img/w3images/oldcourse.jpg
 ---
+05/12/2023
+1. Added manifesto for |Treasurer position AGM 2023
+2. Added forecast slide deck  
 21/11/2022
 1. Added images to img> W3images
 2. Replaced index.njk
