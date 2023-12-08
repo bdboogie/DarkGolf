@@ -43,9 +43,9 @@ Implement financial education programs for committee members to enhance their un
 <h3> 5.      Regular Financial Reporting:</h3>
 Establish a transparent and timely reporting system to keep the committee and members informed about the financial status. Regular updates will foster trust and collaboration among stakeholders.
 <h3> 6.      Risk Management:</h3>
-Develop and implement a robust risk management strategy to anticipate and mitigate potential financial challenges. This proactive approach will safeguard our organization against unforeseen economic uncertainties.
+Develop and implement a robust risk management strategy to anticipate and mitigate potential financial challenges. This proactive approach will safeguard our Club against unforeseen economic uncertainties.
 <h3> 7.      Collaboration with Stakeholders:</h3>
-Foster open communication with members, stakeholders, and the community to gather valuable insights. Collaborate with other committee members to align financial strategies with the broader organizational vision.
+Foster open communication with members, stakeholders, and the community to gather valuable insights. Collaborate with other committee members to align financial strategies with the broader vision for Baildon Golf Club.
 
 5th Dec 2023
 
